@@ -1,6 +1,9 @@
 # Tutorial for getting started with this
 https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/
 
+# Other debug material
+https://github.com/aws-amplify/amplify-js/issues/12635
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
